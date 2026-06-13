@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+cvzone
+numpy
+pandas
+easyocr
+streamlit
